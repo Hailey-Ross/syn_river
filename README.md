@@ -14,3 +14,7 @@ Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/)
 - Place the files from this Repository in that folder
 - Add `syn_river` to your `server.cfg` file
 - Restart / Start your server
+
+## Credits
+- Resource Created for [DesperadosRP](desperadosrp.com) Server
+- Implemented by [Mapachito](https://github.com/EsMapachito)
