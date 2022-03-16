@@ -19,4 +19,4 @@ Originally created by [Mapachito](https://github.com/EsMapachito), All credit go
 
 ## Credits
 - Resource Created for [DesperadosRP](https://desperadosrp.com) Server
-- Implemented by [Mapachito](https://github.com/EsMapachito)
+- Created/Implemented by [Mapachito](https://github.com/EsMapachito)
