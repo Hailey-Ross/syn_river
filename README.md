@@ -1,8 +1,10 @@
 # syn_river
-Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/) which adds missing water sources around the map.  
+A resource for RedM that adds the ability to Drink  
+as well as Wash yourself in bodies of water around New Hanover
+
+Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/).  
 Originally created by [Mapachito](https://github.com/EsMapachito), All credit goes to them.
 
-[Original Readme](https://github.com/Hailey-Ross/syn_river/blob/main/OG-README.md)
 ## Changes
 - Added Missing water hashes
 - Added Guarma Ocean in a Commented out state
@@ -17,6 +19,7 @@ Originally created by [Mapachito](https://github.com/EsMapachito), All credit go
 - Add `syn_river` to your `server.cfg` file
 - Restart / Start your server
 
-## Credits
+## Additional Credits
 - Resource Created for [DesperadosRP](https://desperadosrp.com) Server
 - Created/Implemented by [Mapachito](https://github.com/EsMapachito)
+- Original [Readme](https://github.com/Hailey-Ross/syn_river/blob/main/OG-README.md) File
