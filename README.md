@@ -16,5 +16,5 @@ Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/)
 - Restart / Start your server
 
 ## Credits
-- Resource Created for [DesperadosRP](desperadosrp.com) Server
+- Resource Created for [DesperadosRP](https://desperadosrp.com) Server
 - Implemented by [Mapachito](https://github.com/EsMapachito)
