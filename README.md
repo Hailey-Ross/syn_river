@@ -1,5 +1,5 @@
 # syn_river
-Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/).  
+Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/) which adds missing water sources around the map.  
 Originally created by [Mapachito](https://github.com/EsMapachito), All credit goes to them.
 
 [Original Readme](https://github.com/Hailey-Ross/syn_river/blob/main/OG-README.md)
