@@ -5,7 +5,7 @@ Fork / Edit of Syn_River by [HaileyRoss](https://github.com/Hailey-Ross/)
 ## Changes
 - Added Missing water hashes
 - Added Guarma Ocean in a Commented out state
-- Fixed incorrect typings for all types
+- Fixed incorrect typings for all watertypes
 
 ## Installation
 - Download the Latest files from Main Branch
